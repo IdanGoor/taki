@@ -29,6 +29,6 @@
     "lodash": "latest",
     "prettier": "^1.13.7",
     "react": "^16.2.0",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.2"
   }
 }
