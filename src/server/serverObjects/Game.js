@@ -105,7 +105,6 @@ module.exports = class Game {
                 this._tempPlayers.push(player);
                 let index = this.players.indexOf(player);
                 if (index > -1) {
-                    console.log("player removed");
                     this.players.splice(index, 1);
                 }
             }
