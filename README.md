@@ -1,6 +1,6 @@
 # TakiMultiplayer
 A multiplayer [Taki](https://en.wikipedia.org/wiki/Taki_(card_game)) card game implemented with Reactjs and express.  
-
+![Taki Screenshots](/images/taki_screens.png)
 
 ## Prerequisites
 You have to have [npm](https://www.npmjs.com/get-npm) installed to play this game.
